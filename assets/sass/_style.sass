@@ -11,11 +11,10 @@ body
         content: ""
         display: block
         position: absolute
-        top: -150px
+        top: 60px
         left: -100px
         width: 300px 
         height: 300px
-        transform: skew(5deg, 0)
         border-radius: 100%
         background: radial-gradient(ellipse at 50% 50%, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0) 100%), 
         radial-gradient(ellipse at 70% 60%, #ffc123 0%, rgba(195, 224, 96, 0) 90%), 
@@ -26,7 +25,8 @@ body
         background-blend-mode: overlay,luminosity,color-dodge,saturation,screen,color
         filter: blur(35px)
         @include media-breakpoint-up(md)
-            background-size: 200% 200%
             animation: gradient 15s ease infinite
-            width: 600px 
+            background-size: 200% 200%
             height: 600px
+            top: -150px
+            width: 600px 
