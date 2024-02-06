@@ -32,8 +32,11 @@ body
             width: 600px 
             top: -100px
             margin-left: -300px
-
-
+@include media-breakpoint-up(lg)
+.posts__section .posts--grid,
+main > .blocks .block-posts--grid .grid,
+body.full-width .block-posts--grid .grid
+        grid-template-columns: repeat(2, 1fr)
 @include media-breakpoint-up(md)
     header#document-header 
         nav 
@@ -43,8 +46,17 @@ body
                     margin-bottom: $spacing1
             .nav-level-1
                 *
-                    // font-weight: bold
                     text-transform: uppercase
+        &.is-sticky
+            nav
+                padding-top: $spacing0
+                padding-bottom: $spacing0
+                > .container
+                    flex-direction: row
+                    .logo
+                        margin: 0
+                        img
+                            height: 20px
     .hero
         .content 
             > h1, 
