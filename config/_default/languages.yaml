@@ -9,8 +9,11 @@ fr:
     social:
   permalinks:
     posts: /actualites/:year-:month-:day-:slug/
+    posts_categories: /actualites/:slug/
     events: /seminaires/:year-:month-:day-:slug/
     events_categories: /seminaires/:slug/
+    persons: /equipe/:slug/
+    authors: /equipe/:slug/actualites/
   taxonomies:
     administrator: administrators
     author: authors
