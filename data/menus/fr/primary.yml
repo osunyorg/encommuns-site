@@ -5,8 +5,8 @@ items:
   target: "/actualites/"
   kind: page
   children: []
-- title: Agenda
-  target: "/agenda/"
+- title: Séminaires
+  target: "/seminaires/"
   kind: page
   children: []
 - title: Équipe
