@@ -12,7 +12,8 @@ body
         display: block
         position: absolute
         top: 60px
-        left: -100px
+        left: 50%
+        margin-left: -150px
         width: 300px 
         height: 300px
         border-radius: 100%
@@ -28,5 +29,30 @@ body
             animation: gradient 15s ease infinite
             background-size: 200% 200%
             height: 600px
-            top: -150px
             width: 600px 
+            top: -100px
+            margin-left: -300px
+
+
+@include media-breakpoint-up(md)
+    header#document-header 
+        nav 
+            > .container
+                flex-direction: column
+                .logo
+                    margin-bottom: $spacing1
+            .nav-level-1
+                *
+                    // font-weight: bold
+                    text-transform: uppercase
+    .hero
+        .content 
+            > h1, 
+            > hgroup
+                margin-left: auto
+                margin-right: auto
+                text-align: center
+    .breadcrumb
+        place-content: center
+    footer#document-footer
+        margin-top: $spacing4
