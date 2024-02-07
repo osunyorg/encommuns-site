@@ -1,6 +1,10 @@
 ---
 title: Menu principal
 items:
+- title: À propos
+  target: "/a-propos/"
+  kind: page
+  children: []
 - title: Écologie
   target: "/actualites/ecologie/"
   kind: category
@@ -27,10 +31,6 @@ items:
   children: []
 - title: Séminaires
   target: "/seminaires/"
-  kind: page
-  children: []
-- title: À propos
-  target: "/a-propos/"
   kind: page
   children: []
 
