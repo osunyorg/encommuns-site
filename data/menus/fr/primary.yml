@@ -25,10 +25,6 @@ items:
   target: "/actualites/sante/"
   kind: category
   children: []
-- title: À propos
-  target: "/a-propos/"
-  kind: page
-  children: []
 - title: Séminaires
   target: "/seminaires/"
   kind: page
