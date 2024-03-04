@@ -53,15 +53,15 @@ header#document-header
             > .container
                 flex-direction: column
                 .logo
-                    margin-bottom: $spacing1
+                    margin-bottom: $spacing-3
             .nav-level-1
                 *
                     text-transform: uppercase
-                    font-size: px2rem(20)
+                    font-size: pxToRem(20)
         &.is-sticky
             nav
-                padding-top: $spacing0
-                padding-bottom: $spacing0
+                padding-top: $spacing-2
+                padding-bottom: $spacing-2
                 > .container
                     flex-direction: row
                     .logo
@@ -69,13 +69,14 @@ header#document-header
                         img
                             height: 20px
     .hero
-        .content 
-            > h1, 
-            > hgroup
+        .content
+            .hero-text
                 margin-left: auto
                 margin-right: auto
-                text-align: center
+                > h1, 
+                > hgroup
+                    text-align: center
     .breadcrumb
         place-content: center
     footer#document-footer
-        margin-top: $spacing4
+        margin-top: $spacing-6
