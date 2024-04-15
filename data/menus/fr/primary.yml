@@ -1,10 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Santé
-  target: "/actualites/sante/"
-  kind: category
-  children: []
 - title: Séminaires
   target: "/seminaires/"
   kind: page
@@ -29,12 +25,16 @@ items:
     target: "/actualites/etat/"
     kind: category
     children: []
+  - title: Santé
+    target: "/actualites/sante/"
+    kind: category
+    children: []
   - title: Intérêt général
     target: "/actualites/interet-general/"
     kind: category
     children: []
-- title: Numérique
-  target: "/actualites/numerique/"
-  kind: category
-  children: []
+  - title: Numérique
+    target: "/actualites/numerique/"
+    kind: category
+    children: []
 
