@@ -33,4 +33,8 @@ items:
   target: "/l-association/"
   kind: page
   children: []
+- title: Thématiques
+  target: ''
+  kind: blank
+  children: []
 
