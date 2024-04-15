@@ -1,18 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Écologie
-  target: "/actualites/ecologie/"
-  kind: category
-  children: []
-- title: Espaces
-  target: "/actualites/espaces/"
-  kind: category
-  children: []
-- title: État
-  target: "/actualites/etat/"
-  kind: category
-  children: []
 - title: Intérêt général
   target: "/actualites/interet-general/"
   kind: category
@@ -36,5 +24,17 @@ items:
 - title: Thématiques
   target: ''
   kind: blank
-  children: []
+  children:
+  - title: Écologie
+    target: "/actualites/ecologie/"
+    kind: category
+    children: []
+  - title: Espaces
+    target: "/actualites/espaces/"
+    kind: category
+    children: []
+  - title: État
+    target: "/actualites/etat/"
+    kind: category
+    children: []
 
