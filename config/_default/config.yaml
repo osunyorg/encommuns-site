@@ -1,4 +1,4 @@
-theme: osuny-hugo-theme-aaa
+theme: encommuns-theme
 paginate: 18
 enableRobotsTXT: true
 removePathAccents: true
@@ -12,6 +12,3 @@ params:
   posts:
     index: 
       layout: grid
-  logo:
-    header: "/assets/images/logo.svg"
-    footer: "/assets/images/logo-blanc.svg"
