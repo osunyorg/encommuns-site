@@ -1,10 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Séminaires
-  target: "/seminaires/"
-  kind: page
-  children: []
 - title: À propos
   target: "/l-association/"
   kind: page
