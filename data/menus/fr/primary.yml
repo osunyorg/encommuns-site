@@ -9,10 +9,6 @@ items:
   target: ''
   kind: blank
   children:
-  - title: Tous les articles
-    target: "/actualites/"
-    kind: page
-    children: []
   - title: Écologie
     target: "/actualites/ecologie/"
     kind: category
@@ -36,6 +32,10 @@ items:
   - title: Numérique
     target: "/actualites/numerique/"
     kind: category
+    children: []
+  - title: Tous les articles
+    target: "/actualites/"
+    kind: page
     children: []
 - title: L'association
   target: https://association.encommuns.net
