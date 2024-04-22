@@ -37,4 +37,8 @@ items:
   target: https://association.encommuns.net
   kind: url
   children: []
+- title: Tous les articles
+  target: "/actualites/"
+  kind: page
+  children: []
 
