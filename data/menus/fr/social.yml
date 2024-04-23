@@ -5,4 +5,8 @@ items:
   target: "/actualites/ecologie/"
   kind: category
   children: []
+- title: Espaces
+  target: "/actualites/espaces/"
+  kind: category
+  children: []
 
