@@ -21,4 +21,8 @@ items:
   target: "/actualites/numerique/"
   kind: category
   children: []
+- title: Santé
+  target: "/actualites/sante/"
+  kind: category
+  children: []
 
