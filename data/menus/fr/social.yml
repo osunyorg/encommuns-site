@@ -1,4 +1,8 @@
 ---
 title: Liens sociaux
-items: []
+items:
+- title: Écologie
+  target: "/actualites/ecologie/"
+  kind: category
+  children: []
 
