@@ -17,4 +17,8 @@ items:
   target: "/actualites/interet-general/"
   kind: category
   children: []
+- title: Numérique
+  target: "/actualites/numerique/"
+  kind: category
+  children: []
 
