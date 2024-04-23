@@ -13,4 +13,8 @@ items:
   target: "/actualites/etat/"
   kind: category
   children: []
+- title: Intérêt général
+  target: "/actualites/interet-general/"
+  kind: category
+  children: []
 
