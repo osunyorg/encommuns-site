@@ -2,7 +2,7 @@
 title: Menu principal
 items:
 - title: À propos
-  target: "/l-association/"
+  target: "/a-propos/"
   kind: page
   children: []
 - title: Thématiques
