@@ -2,27 +2,27 @@
 title: Liens sociaux
 items:
 - title: Écologie
-  target: "/actualites/ecologie/"
+  target: "/articles/ecologie/"
   kind: category
   children: []
 - title: Espaces
-  target: "/actualites/espaces/"
+  target: "/articles/espaces/"
   kind: category
   children: []
 - title: État
-  target: "/actualites/etat/"
+  target: "/articles/etat/"
   kind: category
   children: []
 - title: Intérêt général
-  target: "/actualites/interet-general/"
+  target: "/articles/interet-general/"
   kind: category
   children: []
 - title: Numérique
-  target: "/actualites/numerique/"
+  target: "/articles/numerique/"
   kind: category
   children: []
 - title: Santé
-  target: "/actualites/sante/"
+  target: "/articles/sante/"
   kind: category
   children: []
 
