@@ -9,6 +9,10 @@ items:
     target: "/a-propos/"
     kind: page
     children: []
+  - title: Charte contributeurs
+    target: "/charte-contributeurs/"
+    kind: page
+    children: []
 - title: Thématiques
   target: ''
   kind: blank
