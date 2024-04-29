@@ -41,4 +41,8 @@ items:
   target: https://association.encommuns.net
   kind: url
   children: []
+- title: En savoir plus
+  target: ''
+  kind: blank
+  children: []
 
