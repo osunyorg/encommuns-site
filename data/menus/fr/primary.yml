@@ -10,7 +10,7 @@ items:
     kind: page
     children: []
   - title: Charte contributeurs
-    target: "/charte-contributeurs/"
+    target: "/a-propos/charte-contributeurs/"
     kind: page
     children: []
 - title: Thématiques
