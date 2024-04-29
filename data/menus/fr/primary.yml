@@ -1,10 +1,14 @@
 ---
 title: Menu principal
 items:
-- title: À propos
-  target: "/a-propos/"
-  kind: page
-  children: []
+- title: En savoir plus
+  target: ''
+  kind: blank
+  children:
+  - title: À propos
+    target: "/a-propos/"
+    kind: page
+    children: []
 - title: Thématiques
   target: ''
   kind: blank
@@ -40,9 +44,5 @@ items:
 - title: L'association
   target: https://association.encommuns.net
   kind: url
-  children: []
-- title: En savoir plus
-  target: ''
-  kind: blank
   children: []
 
