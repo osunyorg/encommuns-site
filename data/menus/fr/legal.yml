@@ -5,4 +5,8 @@ items:
   target: "/mentions-legales/"
   kind: page
   children: []
+- title: L'association
+  target: https://association.encommuns.net
+  kind: url
+  children: []
 
