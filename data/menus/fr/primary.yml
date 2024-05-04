@@ -17,6 +17,10 @@ items:
     target: "/comite-de-redaction/"
     kind: page
     children: []
+  - title: Les fondateurs
+    target: "/les-fondateurs/"
+    kind: page
+    children: []
 - title: Thématiques
   target: ''
   kind: blank
