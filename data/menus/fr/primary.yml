@@ -13,6 +13,10 @@ items:
     target: "/a-propos/charte-contributeurs/"
     kind: page
     children: []
+  - title: Comité de rédaction
+    target: "/comite-de-redaction/"
+    kind: page
+    children: []
 - title: Thématiques
   target: ''
   kind: blank
