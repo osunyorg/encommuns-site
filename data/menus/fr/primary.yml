@@ -14,7 +14,7 @@ items:
     kind: page
     children: []
   - title: Comité de rédaction
-    target: "/comite-de-redaction/"
+    target: "/a-propos/comite-de-redaction/"
     kind: page
     children: []
   - title: Les fondateurs
