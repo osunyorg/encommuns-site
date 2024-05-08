@@ -9,11 +9,8 @@ fr:
   params:
     social:
   permalinks:
-    posts: /articles/:year-:month-:day-:slug/
-    posts_categories: /articles/:slug/
     persons: /equipe/:slug/
     persons_categories: /equipe/:slug/
-    authors: /equipe/:slug/articles/
   taxonomies:
     administrator: administrators
     author: authors
