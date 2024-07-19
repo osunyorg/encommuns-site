@@ -21,6 +21,10 @@ items:
     target: "/a-propos/les-fondateurs/"
     kind: page
     children: []
+  - title: Contact
+    target: "/a-propos/contact/"
+    kind: page
+    children: []
 - title: Thématiques
   target: ''
   kind: blank
