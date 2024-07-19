@@ -25,6 +25,10 @@ items:
     target: "/a-propos/contact/"
     kind: page
     children: []
+  - title: Appel à contributions
+    target: "/a-propos/appel-a-contributions/"
+    kind: page
+    children: []
 - title: Thématiques
   target: ''
   kind: blank
