@@ -1,14 +1,19 @@
 .page__home
-  .hero
-    min-height: 0
-    margin-bottom: 0
-    padding-bottom: 0
-    .hero-text
-        display: none
-    > .container
-        padding-top: var(--grid-gutter)
-        > .content
-            padding-top: 0 !important
+    @include media-breakpoint-up(desktop)
+        #document-header
+            .logo
+                img
+                    height: 80px
+    .hero
+        min-height: 0
+        margin-bottom: 0
+        padding-bottom: 0
+        .hero-text
+            display: none
+        > .container
+            padding-top: var(--grid-gutter)
+            > .content
+                padding-top: 0 !important
 
 @include media-breakpoint-down(desktop)
     .hero--with-image
