@@ -9,6 +9,10 @@ items:
     target: "/a-propos/projet-editorial/"
     kind: page
     children: []
+  - title: Comité éditorial
+    target: "/a-propos/comite-editorial/"
+    kind: page
+    children: []
   - title: Charte contributeurs
     target: "/a-propos/charte-contributeurs/"
     kind: page
@@ -27,10 +31,6 @@ items:
     children: []
   - title: Appel à contributions
     target: "/a-propos/appel-a-contributions/"
-    kind: page
-    children: []
-  - title: Comité éditorial
-    target: "/a-propos/comite-editorial/"
     kind: page
     children: []
 - title: Thématiques
