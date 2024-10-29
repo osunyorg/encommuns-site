@@ -17,12 +17,12 @@ items:
     target: "/a-propos/comite-de-redaction/"
     kind: page
     children: []
-  - title: Charte contributeurs
-    target: "/a-propos/charte-contributeurs/"
-    kind: page
-    children: []
   - title: Les fondateurs
     target: "/a-propos/les-fondateurs/"
+    kind: page
+    children: []
+  - title: Charte contributeurs
+    target: "/a-propos/charte-contributeurs/"
     kind: page
     children: []
   - title: Contact
