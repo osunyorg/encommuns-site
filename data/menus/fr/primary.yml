@@ -13,12 +13,12 @@ items:
     target: "/a-propos/comite-editorial/"
     kind: page
     children: []
-  - title: Charte contributeurs
-    target: "/a-propos/charte-contributeurs/"
-    kind: page
-    children: []
   - title: Comité de rédaction
     target: "/a-propos/comite-de-redaction/"
+    kind: page
+    children: []
+  - title: Charte contributeurs
+    target: "/a-propos/charte-contributeurs/"
     kind: page
     children: []
   - title: Les fondateurs
