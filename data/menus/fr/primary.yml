@@ -29,6 +29,10 @@ items:
     target: "/a-propos/appel-a-contributions/"
     kind: page
     children: []
+  - title: Comité éditorial
+    target: "/a-propos/comite-editorial/"
+    kind: page
+    children: []
 - title: Thématiques
   target: ''
   kind: blank
