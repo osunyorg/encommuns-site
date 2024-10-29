@@ -9,16 +9,16 @@ items:
     target: "/a-propos/projet-editorial/"
     kind: page
     children: []
+  - title: Les fondateurs
+    target: "/a-propos/les-fondateurs/"
+    kind: page
+    children: []
   - title: Comité éditorial
     target: "/a-propos/comite-editorial/"
     kind: page
     children: []
   - title: Comité de rédaction
     target: "/a-propos/comite-de-redaction/"
-    kind: page
-    children: []
-  - title: Les fondateurs
-    target: "/a-propos/les-fondateurs/"
     kind: page
     children: []
   - title: Charte contributeurs
