@@ -9,30 +9,38 @@ items:
     target: "/a-propos/projet-editorial/"
     kind: page
     children: []
+    file: content/fr/pages/a-propos/projet-editorial/_index.html
   - title: Les fondateurs
     target: "/a-propos/les-fondateurs/"
     kind: page
     children: []
+    file: content/fr/pages/a-propos/les-fondateurs/_index.html
   - title: Comité éditorial
     target: "/a-propos/comite-editorial/"
     kind: page
     children: []
+    file: content/fr/pages/a-propos/comite-editorial/_index.html
   - title: Comité de rédaction
     target: "/a-propos/comite-de-redaction/"
     kind: page
     children: []
+    file: content/fr/pages/a-propos/comite-de-redaction/_index.html
   - title: Charte contributeurs
     target: "/a-propos/charte-contributeurs/"
     kind: page
     children: []
+    file: content/fr/pages/a-propos/charte-contributeurs/_index.html
   - title: Contact
     target: "/a-propos/contact/"
     kind: page
     children: []
+    file: content/fr/pages/a-propos/contact/_index.html
   - title: Appel à contributions
     target: "/a-propos/appel-a-contributions/"
     kind: page
     children: []
+    file: content/fr/pages/a-propos/appel-a-contributions/_index.html
+  file: content/fr/pages/a-propos/_index.html
 - title: Thématiques
   target: ''
   kind: blank
@@ -41,28 +49,35 @@ items:
     target: "/articles/ecologie/"
     kind: category
     children: []
+    file: content/fr/posts_categories/ecologie/_index.html
   - title: Espaces
     target: "/articles/espaces/"
     kind: category
     children: []
+    file: content/fr/posts_categories/espaces/_index.html
   - title: État
     target: "/articles/etat/"
     kind: category
     children: []
+    file: content/fr/posts_categories/etat/_index.html
   - title: Santé
     target: "/articles/sante/"
     kind: category
     children: []
+    file: content/fr/posts_categories/sante/_index.html
   - title: Intérêt général
     target: "/articles/interet-general/"
     kind: category
     children: []
+    file: content/fr/posts_categories/interet-general/_index.html
   - title: Numérique
     target: "/articles/numerique/"
     kind: category
     children: []
+    file: content/fr/posts_categories/numerique/_index.html
   - title: Tous les articles
     target: "/articles/"
     kind: page
     children: []
+    file: content/fr/posts/_index.html
 
