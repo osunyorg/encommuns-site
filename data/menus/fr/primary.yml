@@ -9,37 +9,45 @@ items:
     target: "/a-propos/projet-editorial/"
     kind: page
     children: []
+    path: "/pages/a-propos/projet-editorial"
     file: content/fr/pages/a-propos/projet-editorial/_index.html
   - title: Les fondateurs
     target: "/a-propos/les-fondateurs/"
     kind: page
     children: []
+    path: "/pages/a-propos/les-fondateurs"
     file: content/fr/pages/a-propos/les-fondateurs/_index.html
   - title: Comité éditorial
     target: "/a-propos/comite-editorial/"
     kind: page
     children: []
+    path: "/pages/a-propos/comite-editorial"
     file: content/fr/pages/a-propos/comite-editorial/_index.html
   - title: Comité de rédaction
     target: "/a-propos/comite-de-redaction/"
     kind: page
     children: []
+    path: "/pages/a-propos/comite-de-redaction"
     file: content/fr/pages/a-propos/comite-de-redaction/_index.html
   - title: Charte contributeurs
     target: "/a-propos/charte-contributeurs/"
     kind: page
     children: []
+    path: "/pages/a-propos/charte-contributeurs"
     file: content/fr/pages/a-propos/charte-contributeurs/_index.html
   - title: Contact
     target: "/a-propos/contact/"
     kind: page
     children: []
+    path: "/pages/a-propos/contact"
     file: content/fr/pages/a-propos/contact/_index.html
   - title: Appel à contributions
     target: "/a-propos/appel-a-contributions/"
     kind: page
     children: []
+    path: "/pages/a-propos/appel-a-contributions"
     file: content/fr/pages/a-propos/appel-a-contributions/_index.html
+  path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
 - title: Thématiques
   target: ''
@@ -49,35 +57,42 @@ items:
     target: "/articles/ecologie/"
     kind: category
     children: []
+    path: "/posts_categories/ecologie"
     file: content/fr/posts_categories/ecologie/_index.html
   - title: Espaces
     target: "/articles/espaces/"
     kind: category
     children: []
+    path: "/posts_categories/espaces"
     file: content/fr/posts_categories/espaces/_index.html
   - title: État
     target: "/articles/etat/"
     kind: category
     children: []
+    path: "/posts_categories/etat"
     file: content/fr/posts_categories/etat/_index.html
   - title: Santé
     target: "/articles/sante/"
     kind: category
     children: []
+    path: "/posts_categories/sante"
     file: content/fr/posts_categories/sante/_index.html
   - title: Intérêt général
     target: "/articles/interet-general/"
     kind: category
     children: []
+    path: "/posts_categories/interet-general"
     file: content/fr/posts_categories/interet-general/_index.html
   - title: Numérique
     target: "/articles/numerique/"
     kind: category
     children: []
+    path: "/posts_categories/numerique"
     file: content/fr/posts_categories/numerique/_index.html
   - title: Tous les articles
     target: "/articles/"
     kind: page
     children: []
+    path: "/posts"
     file: content/fr/posts/_index.html
 
