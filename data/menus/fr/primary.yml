@@ -4,46 +4,54 @@ items:
 - title: À propos
   target: "/a-propos/"
   kind: page
+  new_tab: false
   children:
   - title: Projet éditorial
     target: "/a-propos/projet-editorial/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/a-propos/projet-editorial"
     file: content/fr/pages/a-propos/projet-editorial/_index.html
   - title: Les fondateurs
     target: "/a-propos/les-fondateurs/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/a-propos/les-fondateurs"
     file: content/fr/pages/a-propos/les-fondateurs/_index.html
   - title: Comité éditorial
     target: "/a-propos/comite-editorial/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/a-propos/comite-editorial"
     file: content/fr/pages/a-propos/comite-editorial/_index.html
   - title: Comité de rédaction
     target: "/a-propos/comite-de-redaction/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/a-propos/comite-de-redaction"
     file: content/fr/pages/a-propos/comite-de-redaction/_index.html
   - title: Charte contributeurs
     target: "/a-propos/charte-contributeurs/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/a-propos/charte-contributeurs"
     file: content/fr/pages/a-propos/charte-contributeurs/_index.html
   - title: Contact
     target: "/a-propos/contact/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/a-propos/contact"
     file: content/fr/pages/a-propos/contact/_index.html
   - title: Appel à contributions
     target: "/a-propos/appel-a-contributions/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/a-propos/appel-a-contributions"
     file: content/fr/pages/a-propos/appel-a-contributions/_index.html
@@ -52,46 +60,54 @@ items:
 - title: Thématiques
   target: ''
   kind: blank
+  new_tab: false
   children:
   - title: Écologie
     target: "/articles/ecologie/"
     kind: category
+    new_tab: false
     children: []
     path: "/posts_categories/ecologie"
     file: content/fr/posts_categories/ecologie/_index.html
   - title: Espaces
     target: "/articles/espaces/"
     kind: category
+    new_tab: false
     children: []
     path: "/posts_categories/espaces"
     file: content/fr/posts_categories/espaces/_index.html
   - title: État
     target: "/articles/etat/"
     kind: category
+    new_tab: false
     children: []
     path: "/posts_categories/etat"
     file: content/fr/posts_categories/etat/_index.html
   - title: Santé
     target: "/articles/sante/"
     kind: category
+    new_tab: false
     children: []
     path: "/posts_categories/sante"
     file: content/fr/posts_categories/sante/_index.html
   - title: Intérêt général
     target: "/articles/interet-general/"
     kind: category
+    new_tab: false
     children: []
     path: "/posts_categories/interet-general"
     file: content/fr/posts_categories/interet-general/_index.html
   - title: Numérique
     target: "/articles/numerique/"
     kind: category
+    new_tab: false
     children: []
     path: "/posts_categories/numerique"
     file: content/fr/posts_categories/numerique/_index.html
   - title: Tous les articles
     target: "/articles/"
     kind: page
+    new_tab: false
     children: []
     path: "/posts"
     file: content/fr/posts/_index.html
