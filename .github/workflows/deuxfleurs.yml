@@ -25,7 +25,7 @@ jobs:
       run: yarn install
 
     - name: Installation de Hugo
-      uses: noesya/actions-hugo@main
+      uses: noesya/actions-hugo@release
       with:
         hugo-version: 'latest'
         extended: true
