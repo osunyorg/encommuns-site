@@ -29,6 +29,7 @@ jobs:
       with:
         hugo-version: 'latest'
         extended: true
+        withdeploy: true
 
     - name: Compilation du site
       run: yarn osuny build
