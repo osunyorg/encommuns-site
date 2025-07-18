@@ -115,5 +115,33 @@ items:
   target: ''
   kind: blank
   new_tab: false
-  children: []
+  children:
+  - title: Essais
+    target: "/articles/essais/"
+    kind: category
+    new_tab: false
+    children: []
+    path: "/posts_categories/essais"
+    file: content/fr/posts_categories/essais/_index.html
+  - title: Recensions
+    target: "/articles/recensions/"
+    kind: category
+    new_tab: false
+    children: []
+    path: "/posts_categories/recensions"
+    file: content/fr/posts_categories/recensions/_index.html
+  - title: Entretiens
+    target: "/articles/entretiens/"
+    kind: category
+    new_tab: false
+    children: []
+    path: "/posts_categories/entretiens"
+    file: content/fr/posts_categories/entretiens/_index.html
+  - title: Traductions
+    target: "/articles/traduction/"
+    kind: category
+    new_tab: false
+    children: []
+    path: "/posts_categories/traduction"
+    file: content/fr/posts_categories/traduction/_index.html
 
