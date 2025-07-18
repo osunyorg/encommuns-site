@@ -144,4 +144,11 @@ items:
     children: []
     path: "/posts_categories/traduction"
     file: content/fr/posts_categories/traduction/_index.html
+  - title: Tous les formats
+    target: "/articles/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/posts"
+    file: content/fr/posts/_index.html
 
