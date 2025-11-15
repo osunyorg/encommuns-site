@@ -134,7 +134,12 @@ items:
     target: "/articles/entretiens/"
     kind: category
     new_tab: false
-    children: []
+    children:
+    - title: "« On est un peu un syndic’ des communs ». Entretien avec Maxime Zaït"
+      target: ''
+      kind: blank
+      new_tab: false
+      children: []
     path: "/posts_categories/entretiens"
     file: content/fr/posts_categories/entretiens/_index.html
   - title: Traductions
