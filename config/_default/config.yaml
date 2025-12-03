@@ -1,2 +1,5 @@
 theme: encommuns-theme
 _merge: deep
+params:
+  debug:
+    productionUrl: https://www.encommuns.net
