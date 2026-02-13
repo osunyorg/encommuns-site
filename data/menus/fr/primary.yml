@@ -2,153 +2,216 @@
 title: Menu principal
 items:
 - title: À propos
+  slug: a-propos
   target: "/a-propos/"
   kind: page
   new_tab: false
   children:
   - title: Projet éditorial
+    slug: projet-editorial
     target: "/a-propos/projet-editorial/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/a-propos/projet-editorial"
     file: content/fr/pages/a-propos/projet-editorial/_index.html
   - title: Les fondateurs
+    slug: les-fondateurs
     target: "/a-propos/les-fondateurs/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/a-propos/les-fondateurs"
     file: content/fr/pages/a-propos/les-fondateurs/_index.html
   - title: Comité éditorial
+    slug: comite-editorial
     target: "/a-propos/comite-editorial/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/a-propos/comite-editorial"
     file: content/fr/pages/a-propos/comite-editorial/_index.html
   - title: Comité de rédaction
+    slug: comite-de-redaction
     target: "/a-propos/comite-de-redaction/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/a-propos/comite-de-redaction"
     file: content/fr/pages/a-propos/comite-de-redaction/_index.html
   - title: Charte contributeurs
+    slug: charte-contributeurs
     target: "/a-propos/charte-contributeurs/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/a-propos/charte-contributeurs"
     file: content/fr/pages/a-propos/charte-contributeurs/_index.html
   - title: Contact
+    slug: contact
     target: "/a-propos/contact/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/a-propos/contact"
     file: content/fr/pages/a-propos/contact/_index.html
   - title: Appel à contributions
+    slug: appel-a-contributions
     target: "/a-propos/appel-a-contributions/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/a-propos/appel-a-contributions"
     file: content/fr/pages/a-propos/appel-a-contributions/_index.html
+  descendants_targets:
+  - "/a-propos/appel-a-contributions/"
+  - "/a-propos/charte-contributeurs/"
+  - "/a-propos/comite-de-redaction/"
+  - "/a-propos/comite-editorial/"
+  - "/a-propos/contact/"
+  - "/a-propos/les-fondateurs/"
+  - "/a-propos/projet-editorial/"
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
 - title: Thématiques
+  slug: thematiques
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: Écologie
+    slug: ecologie
     target: "/articles/ecologie/"
     kind: category
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts_categories/ecologie"
     file: content/fr/posts_categories/ecologie/_index.html
   - title: Espaces
+    slug: espaces
     target: "/articles/espaces/"
     kind: category
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts_categories/espaces"
     file: content/fr/posts_categories/espaces/_index.html
   - title: État
+    slug: etat
     target: "/articles/etat/"
     kind: category
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts_categories/etat"
     file: content/fr/posts_categories/etat/_index.html
   - title: Santé
+    slug: sante
     target: "/articles/sante/"
     kind: category
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts_categories/sante"
     file: content/fr/posts_categories/sante/_index.html
   - title: Intérêt général
+    slug: interet-general
     target: "/articles/interet-general/"
     kind: category
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts_categories/interet-general"
     file: content/fr/posts_categories/interet-general/_index.html
   - title: Numérique
+    slug: numerique
     target: "/articles/numerique/"
     kind: category
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts_categories/numerique"
     file: content/fr/posts_categories/numerique/_index.html
   - title: Tous les articles
+    slug: tous-les-articles
     target: "/articles/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts"
     file: content/fr/posts/_index.html
+  descendants_targets:
+  - "/articles/"
+  - "/articles/ecologie/"
+  - "/articles/espaces/"
+  - "/articles/etat/"
+  - "/articles/interet-general/"
+  - "/articles/numerique/"
+  - "/articles/sante/"
 - title: Formats
+  slug: formats
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: Essais
+    slug: essais
     target: "/articles/essais/"
     kind: category
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts_categories/essais"
     file: content/fr/posts_categories/essais/_index.html
   - title: Recensions
+    slug: recensions
     target: "/articles/recensions/"
     kind: category
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts_categories/recensions"
     file: content/fr/posts_categories/recensions/_index.html
   - title: Entretiens
+    slug: entretiens
     target: "/articles/entretiens/"
     kind: category
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts_categories/entretiens"
     file: content/fr/posts_categories/entretiens/_index.html
   - title: Traductions
+    slug: traductions
     target: "/articles/traduction/"
     kind: category
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts_categories/traduction"
     file: content/fr/posts_categories/traduction/_index.html
   - title: Tous les formats
+    slug: tous-les-formats
     target: "/articles/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts"
     file: content/fr/posts/_index.html
+  descendants_targets:
+  - "/articles/"
+  - "/articles/entretiens/"
+  - "/articles/essais/"
+  - "/articles/recensions/"
+  - "/articles/traduction/"
 

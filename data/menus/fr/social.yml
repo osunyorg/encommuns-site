@@ -2,45 +2,57 @@
 title: Liens sociaux
 items:
 - title: Écologie
+  slug: ecologie
   target: "/articles/ecologie/"
   kind: category
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts_categories/ecologie"
   file: content/fr/posts_categories/ecologie/_index.html
 - title: Espaces
+  slug: espaces
   target: "/articles/espaces/"
   kind: category
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts_categories/espaces"
   file: content/fr/posts_categories/espaces/_index.html
 - title: État
+  slug: etat
   target: "/articles/etat/"
   kind: category
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts_categories/etat"
   file: content/fr/posts_categories/etat/_index.html
 - title: Intérêt général
+  slug: interet-general
   target: "/articles/interet-general/"
   kind: category
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts_categories/interet-general"
   file: content/fr/posts_categories/interet-general/_index.html
 - title: Numérique
+  slug: numerique
   target: "/articles/numerique/"
   kind: category
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts_categories/numerique"
   file: content/fr/posts_categories/numerique/_index.html
 - title: Santé
+  slug: sante
   target: "/articles/sante/"
   kind: category
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts_categories/sante"
   file: content/fr/posts_categories/sante/_index.html
 
