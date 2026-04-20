@@ -163,6 +163,24 @@ items:
   kind: blank
   new_tab: false
   children:
+  - title: Actualités
+    slug: actualites
+    target: "/articles/actualites/"
+    kind: category
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/posts_categories/actualites"
+    file: content/fr/posts_categories/actualites/_index.html
+  - title: Entretiens
+    slug: entretiens
+    target: "/articles/entretiens/"
+    kind: category
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/posts_categories/entretiens"
+    file: content/fr/posts_categories/entretiens/_index.html
   - title: Essais
     slug: essais
     target: "/articles/essais/"
@@ -181,15 +199,6 @@ items:
     descendants_targets: []
     path: "/posts_categories/recensions"
     file: content/fr/posts_categories/recensions/_index.html
-  - title: Entretiens
-    slug: entretiens
-    target: "/articles/entretiens/"
-    kind: category
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/posts_categories/entretiens"
-    file: content/fr/posts_categories/entretiens/_index.html
   - title: Traductions
     slug: traductions
     target: "/articles/traduction/"
@@ -208,15 +217,6 @@ items:
     descendants_targets: []
     path: "/posts"
     file: content/fr/posts/_index.html
-  - title: Actualités
-    slug: actualites
-    target: "/articles/actualites/"
-    kind: category
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/posts_categories/actualites"
-    file: content/fr/posts_categories/actualites/_index.html
   descendants_targets:
   - "/articles/"
   - "/articles/actualites/"
