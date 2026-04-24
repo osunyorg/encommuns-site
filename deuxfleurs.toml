@@ -15,94 +15,94 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/actualites/numerique/index.html"
+from = "/actualites/numerique/"
 to = "/articles/numerique/"
 
 [[redirects]]
-from = "/agenda/archives/index.html"
+from = "/agenda/archives/"
 to = "/seminaires/archives/"
 
 [[redirects]]
-from = "/equipe/yannick-bosc/actualites/index.html"
+from = "/equipe/yannick-bosc/actualites/"
 to = "/equipe/yannick-bosc/articles/"
 
 [[redirects]]
-from = "/actualites/etat/index.html"
+from = "/actualites/etat/"
 to = "/articles/etat/"
 
 [[redirects]]
-from = "/actualites/sante/index.html"
+from = "/actualites/sante/"
 to = "/articles/sante/"
 
 [[redirects]]
-from = "/articles/2024-04-25-la-reconnaissance-dun-possible-droit-de-deambuler/index.html"
+from = "/articles/2024-04-25-la-reconnaissance-dun-possible-droit-de-deambuler/"
 to = "/articles/2024-05-22-la-reconnaissance-dun-possible-droit-de-deambuler/"
 
 [[redirects]]
-from = "/actualites/espaces/index.html"
+from = "/actualites/espaces/"
 to = "/articles/espaces/"
 
 [[redirects]]
-from = "/actualites/2024-04-22-linternet-que-nous-aurions-pu-avoir/index.html"
+from = "/actualites/2024-04-22-linternet-que-nous-aurions-pu-avoir/"
 to = "/articles/2024-05-22-linternet-que-nous-aurions-pu-avoir/"
 
 [[redirects]]
-from = "/articles/2024-04-25-editorial-une-voix-pour-les-communs/index.html"
+from = "/articles/2024-04-25-editorial-une-voix-pour-les-communs/"
 to = "/articles/2024-05-22-editorial-une-voix-pour-les-communs/"
 
 [[redirects]]
-from = "/actualites/interet-general/index.html"
+from = "/actualites/interet-general/"
 to = "/articles/interet-general/"
 
 [[redirects]]
-from = "/equipe/sebastien-broca/actualites/index.html"
+from = "/equipe/sebastien-broca/actualites/"
 to = "/equipe/sebastien-broca/articles/"
 
 [[redirects]]
-from = "/les-fondateurs/index.html"
+from = "/les-fondateurs/"
 to = "/a-propos/les-fondateurs/"
 
 [[redirects]]
-from = "/articles/2024-05-22-defendre-nos-tiers-lieux-entretien-avec-antoine-burret-et-yoann-duriaux/index.html"
+from = "/articles/2024-05-22-defendre-nos-tiers-lieux-entretien-avec-antoine-burret-et-yoann-duriaux/"
 to = "/articles/2024-05-22-defendre-nos-tiers-lieux/"
 
 [[redirects]]
-from = "/equipe/christopher-kelty/actualites/index.html"
+from = "/equipe/christopher-kelty/actualites/"
 to = "/equipe/christopher-kelty/articles/"
 
 [[redirects]]
-from = "/l-association/index.html"
+from = "/l-association/"
 to = "/a-propos/"
 
 [[redirects]]
-from = "/comite-de-redaction/index.html"
+from = "/comite-de-redaction/"
 to = "/a-propos/comite-de-redaction/"
 
 [[redirects]]
-from = "/actualites/index.html"
+from = "/actualites/"
 to = "/articles/"
 
 [[redirects]]
-from = "/actualites/ecologie/index.html"
+from = "/actualites/ecologie/"
 to = "/articles/ecologie/"
 
 [[redirects]]
-from = "/articles/2024-04-25-interet-general-propriete-et-republique-1/index.html"
+from = "/articles/2024-04-25-interet-general-propriete-et-republique-1/"
 to = "/articles/2024-05-22-interet-general-propriete-et-republique-1/"
 
 [[redirects]]
-from = "/articles/2024-05-04-defendre-nos-tiers-lieux-entretien-avec-antoine-burret-et-yoann-duriaux/index.html"
+from = "/articles/2024-05-04-defendre-nos-tiers-lieux-entretien-avec-antoine-burret-et-yoann-duriaux/"
 to = "/articles/2024-05-22-defendre-nos-tiers-lieux/"
 
 [[redirects]]
-from = "/agenda/index.html"
+from = "/agenda/"
 to = "/seminaires/"
 
 [[redirects]]
-from = "/articles/2024-04-22-linternet-que-nous-aurions-pu-avoir/index.html"
+from = "/articles/2024-04-22-linternet-que-nous-aurions-pu-avoir/"
 to = "/articles/2024-05-22-linternet-que-nous-aurions-pu-avoir/"
 
 [[redirects]]
-from = "/charte-contributeurs/index.html"
+from = "/charte-contributeurs/"
 to = "/a-propos/charte-contributeurs/"
 
