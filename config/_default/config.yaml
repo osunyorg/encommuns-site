@@ -1,4 +1,6 @@
-theme: encommuns-theme
+theme:
+  - osuny-plugin-reading-progress
+  - encommuns-theme
 _merge: deep
 params:
   debug:
