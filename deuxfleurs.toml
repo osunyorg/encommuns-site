@@ -13,3 +13,96 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/actualites/numerique/index.html"
+to = "/articles/numerique/"
+
+[[redirects]]
+from = "/agenda/archives/index.html"
+to = "/seminaires/archives/"
+
+[[redirects]]
+from = "/equipe/yannick-bosc/actualites/index.html"
+to = "/equipe/yannick-bosc/articles/"
+
+[[redirects]]
+from = "/actualites/etat/index.html"
+to = "/articles/etat/"
+
+[[redirects]]
+from = "/actualites/sante/index.html"
+to = "/articles/sante/"
+
+[[redirects]]
+from = "/articles/2024-04-25-la-reconnaissance-dun-possible-droit-de-deambuler/index.html"
+to = "/articles/2024-05-22-la-reconnaissance-dun-possible-droit-de-deambuler/"
+
+[[redirects]]
+from = "/actualites/espaces/index.html"
+to = "/articles/espaces/"
+
+[[redirects]]
+from = "/actualites/2024-04-22-linternet-que-nous-aurions-pu-avoir/index.html"
+to = "/articles/2024-05-22-linternet-que-nous-aurions-pu-avoir/"
+
+[[redirects]]
+from = "/articles/2024-04-25-editorial-une-voix-pour-les-communs/index.html"
+to = "/articles/2024-05-22-editorial-une-voix-pour-les-communs/"
+
+[[redirects]]
+from = "/actualites/interet-general/index.html"
+to = "/articles/interet-general/"
+
+[[redirects]]
+from = "/equipe/sebastien-broca/actualites/index.html"
+to = "/equipe/sebastien-broca/articles/"
+
+[[redirects]]
+from = "/les-fondateurs/index.html"
+to = "/a-propos/les-fondateurs/"
+
+[[redirects]]
+from = "/articles/2024-05-22-defendre-nos-tiers-lieux-entretien-avec-antoine-burret-et-yoann-duriaux/index.html"
+to = "/articles/2024-05-22-defendre-nos-tiers-lieux/"
+
+[[redirects]]
+from = "/equipe/christopher-kelty/actualites/index.html"
+to = "/equipe/christopher-kelty/articles/"
+
+[[redirects]]
+from = "/l-association/index.html"
+to = "/a-propos/"
+
+[[redirects]]
+from = "/comite-de-redaction/index.html"
+to = "/a-propos/comite-de-redaction/"
+
+[[redirects]]
+from = "/actualites/index.html"
+to = "/articles/"
+
+[[redirects]]
+from = "/actualites/ecologie/index.html"
+to = "/articles/ecologie/"
+
+[[redirects]]
+from = "/articles/2024-04-25-interet-general-propriete-et-republique-1/index.html"
+to = "/articles/2024-05-22-interet-general-propriete-et-republique-1/"
+
+[[redirects]]
+from = "/articles/2024-05-04-defendre-nos-tiers-lieux-entretien-avec-antoine-burret-et-yoann-duriaux/index.html"
+to = "/articles/2024-05-22-defendre-nos-tiers-lieux/"
+
+[[redirects]]
+from = "/agenda/index.html"
+to = "/seminaires/"
+
+[[redirects]]
+from = "/articles/2024-04-22-linternet-que-nous-aurions-pu-avoir/index.html"
+to = "/articles/2024-05-22-linternet-que-nous-aurions-pu-avoir/"
+
+[[redirects]]
+from = "/charte-contributeurs/index.html"
+to = "/a-propos/charte-contributeurs/"
+
