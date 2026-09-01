@@ -51,6 +51,10 @@ from = "/articles/2024-04-25-editorial-une-voix-pour-les-communs/index.html"
 to = "/articles/2024-05-22-editorial-une-voix-pour-les-communs/"
 
 [[redirects]]
+from = "/fichiers/2026/index.html"
+to = "/fichiers/2026/voyage-a-reims---encommuns-la-revuepdf/"
+
+[[redirects]]
 from = "/actualites/interet-general/index.html"
 to = "/articles/interet-general/"
 
